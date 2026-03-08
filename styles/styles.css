@@ -1,21 +1,23 @@
 main {
     margin-top: 30px;
     max-width: 840px;
-    width: 30rem;
+    width: 27rem;
     padding: 0;
     background-color: gainsboro;
     text-align: center;
     margin: 0 auto;
+    box-shadow: 10px 5px 10px rgb(210, 203, 203);
 }
 
 aside {
-    width: 30rem;
+    width: 27rem;
     margin: 1rem auto;
-    border: 1px solid rgb(0, 0, 0/0.2);
+    border: 1px solid rgb(186, 174, 174);
     padding: 0;
     background-color: #eee;
     color: #333;
     text-align: center;
+    box-shadow: 10px 5px 10px rgb(210, 203, 203);
 
 }
 
@@ -29,6 +31,7 @@ main img {
     height: auto;
     border: #eee;
     padding: 0;
+    box-shadow: 5px 10px 10px rgb(116, 44, 44);
 
 }
 
@@ -40,7 +43,7 @@ footer {
     margin-top: 15px;
     border-top: 1px solid #000;
     text-align: center;
-    width: 30rem;
+    width: 27rem;
     margin: 0 auto;
 }
 
@@ -50,18 +53,20 @@ nav {
     text-align: center;
     margin: 0 auto;
     width: 30rem;
-
+    box-shadow: 3px 5px 5px rgb(211, 192, 192)
 }
 
 nav a {
     color: cornflowerblue;
     padding: 1px;
     display: block;
+    text-shadow: 3px 3px 10px;
 }
 
 h1 {
     color: chocolate;
     text-align: center;
+    text-indent: 10px;
 }
 
 body {
