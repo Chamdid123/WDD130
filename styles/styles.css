@@ -10,6 +10,7 @@ aside {
     background-color: #eee;
     color: #333;
     text-align: center;
+
 }
 
 aside img {
@@ -20,6 +21,9 @@ aside img {
 main img {
     width: 150px;
     height: auto;
+    border: #eee;
+    padding: 0cap;
+    box-shadow: #333;
 }
 
 p {
@@ -30,4 +34,20 @@ footer {
     margin-top: 15px;
     border-top: 1px solid #000;
     text-align: center;
+}
+
+nav {
+    background-color: darkgrey;
+    padding: 2px;
+
+}
+
+nav a {
+    color: cornflowerblue;
+    padding: 1%;
+    display: block;
+}
+
+h1 {
+    color: chocolate;
 }
