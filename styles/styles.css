@@ -1,7 +1,7 @@
 main {
     margin-top: 30px;
     max-width: 840px;
-    width: 27rem;
+    width: 40rem;
     padding: 0;
     background-color: gainsboro;
     text-align: center;
@@ -10,7 +10,7 @@ main {
 }
 
 aside {
-    width: 27rem;
+    width: 37rem;
     margin: 1rem auto;
     border: 1px solid rgb(186, 174, 174);
     padding: 0;
@@ -35,7 +35,8 @@ main img {
 
 }
 
-p {
+main p {
+
     padding: 0;
 }
 
